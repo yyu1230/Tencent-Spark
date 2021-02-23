@@ -134,7 +134,7 @@ results.append(model.predict(testcases2))
 #model = tf.keras.models.load_model('G:\\wrk\\tai\\models\\food11_100_resnet.h5')
 #results.append(model.predict(testcases2))
 
-#fclass = ["breadÃæÀà", "dairy_productÈéÖÆÆ·", "dessertÌğµã", "eggµ°", "fried_food¼åÖÆÊ³Æ·", "meatÈâÀà", "noodles/pasta·ÛÃæ", "riceÃ×·¹", "seafoodº£ÏÊ", "soupÌÀ", "vegetable/fruitÊß²ËË®¹û"]
+#fclass = ["breadé¢ç±»", "dairy_productä¹³åˆ¶å“", "dessertç”œç‚¹", "eggè›‹", "fried_foodç…åˆ¶é£Ÿå“", "meatè‚‰ç±»", "noodles/pastaç²‰é¢", "riceç±³é¥­", "seafoodæµ·é²œ", "soupæ±¤", "vegetable/fruitè”¬èœæ°´æœ"]
 fclass = ["bread", "dairy_product", "dessert", "egg", "fried_food", "meat", "noodles/pasta", "rice", "seafood", "soup", "vegetable/fruit"]
 
 for i in range(num_testjpgs):
