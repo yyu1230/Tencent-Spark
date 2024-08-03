@@ -1,7 +1,8 @@
 # T-Spark
 
-A collection of my works at the 2020 Tencent T-Spark Future Academy National Extended Hackathon and 2021 Tencent T-Spark Challenge Programme (Short Video Recommendation Algorithms track).
+Some highlights from my works at the 2020 Tencent T-Spark Future Academy National Extended Hackathon and the 2022 Tencent T-Spark Challenge Programme (AI+ track: Human Hand Liveness Detection). \
+Works from the 2021 Tencent T-Spark Challenge Programme (Short Video Recommendation Algorithms track) are not featured, as some materials are commercially confidential.
 
 Please Note:
-* Most of the content might be in Chinese, as the programmes were conducted in Chinese.
-* This is just a folder of some "important content" I saved. It is not thoroughly formatted or compiled.
+* Most of the content is in Chinese, as the programmes were conducted in Chinese.
+* This is just a dump of some highlights and materials. It is not carefully compiled or everything.
