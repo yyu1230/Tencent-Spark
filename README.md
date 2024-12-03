@@ -8,4 +8,4 @@ A heavily redacted version of my presentation at the 2021 Tencent T-Spark Challe
 
 Please Note:
 * Most of the content is in Chinese, as the programmes were conducted in Chinese.
-* This is just a DUMP of some highlights and materials. It is not carefully compiled nor contains everything (or even every important thing).
+* This is just a DUMP of highlights and materials. It is not carefully compiled nor contains everything (or even every important thing).
